@@ -1,0 +1,19 @@
+@media (max-width: 576px) {
+  .avatar {
+    display: none;
+  }
+  #avatar-per {
+    display: none;
+  }
+  .project-content h3 {
+    padding: 10px 0px 10px 25px;
+  }
+  .time {
+    display: flex;
+    flex-direction: column;
+    padding-left: 25px;
+  }
+  .hobby > *:first-child {
+    justify-self: end;
+  }
+}
