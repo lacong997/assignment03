@@ -33,7 +33,7 @@ a:active {
   position: absolute;
   height: 130px;
   border: 5px solid whitesmoke;
-  border-radius: 50%;
+  border-radius: 100%;
   top: -100px;
   left: -65px;
 }
